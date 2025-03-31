@@ -1,5 +1,11 @@
 # Implementação e Análise de Algoritmos de Busca em Grafos
 
+#### Aluno: Antonio Vinicius Rodrigues Oliveira - BCCI150204
+
+#### IFMA - Campus Imperatriz
+
+#### Inteligência Artificial - Professor:
+
 ## Descrição do Projeto
 
 Este projeto implementa e analisa diversos algoritmos de busca utilizando o problema clássico do mapa da Romênia como estudo de caso. Diferente de abordagens puramente teóricas, nosso foco está na implementação prática e na visualização interativa desses algoritmos, permitindo uma compreensão mais profunda de seu comportamento em tempo real.
