@@ -4,7 +4,7 @@
 
 #### IFMA - Campus Imperatriz
 
-#### Inteligência Artificial - Professor:
+#### Inteligência Artificial - Professor: Daniel Duarte Costa
 
 ## Descrição do Projeto
 
