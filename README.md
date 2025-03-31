@@ -23,17 +23,30 @@ O projeto foi desenvolvido utilizando um stack tecnológico moderno baseado em P
 
 Essa combinação de tecnologias permite uma implementação elegante e eficiente, com separação clara entre a lógica dos algoritmos e a interface do usuário.
 
+## Download
+
+Para baixar o projeto, clone o repositório.
+
+```
+git clone https://github.com/antoniovini47/algoritmos-de-busca-ia.git
+cd ./algoritmos-de-busca-ia
+```
+
 ## Instalação
 
 Para rodar o projeto, primeiro instale as dependências utilizando o arquivo `requirements.txt`:
 
-```sh
+```
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+```
 
-#Após a instalação das dependências, execute o projeto com:
+## Execução
 
+Após a instalação das dependências, execute o projeto com:
+
+```
 python main.py
 ```
 
